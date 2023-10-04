@@ -36,12 +36,10 @@
 
 //###############################################################################################################################################
 
-//https://script.google.com/macros/s/AKfycbxGG3vksmgDmlTZHGnnmt658tuevY36Y-e4rZevzkfLTOXbpgVdTzHLY8S7GxzsIX5K/exec
+const char* ssid = "..........";       //SSID
+const char* password = "..........";   //PASS
 
-const char* ssid = "VINAZ-AQS";
-const char* password = "vinazaqs99$";
-
-String scriptUrl = "https://script.google.com/macros/s/AKfycbxGG3vksmgDmlTZHGnnmt658tuevY36Y-e4rZevzkfLTOXbpgVdTzHLY8S7GxzsIX5K/exec";
+String scriptUrl = "https://script.google.com/macros/s/........../exec"; //Appscript ID
 
 //###############################################################################################################################################
 
