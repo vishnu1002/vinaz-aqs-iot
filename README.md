@@ -21,6 +21,17 @@ All sensor readings are safely saved as datasets in Google spreadsheets, allowin
 
 VINAZ makes it simple to view air quality data by generating aesthetically appealing graphs using the Microsoft Power BI software, making complex data accessible and actionable.
 
+### Sensors Used
+
+- ESP32
+- Arduino UNO
+- NOVA PM Sensor
+- Optical Dust Sensor
+- DHT11 Sensor
+- MQ7 Sensor
+- MQ135 Sensor
+- OLED Display
+- Buzzer
 
 VINAZ was created during a 24-hour Hackathon conducted by IEEE Bangalore Section-Level at Amrita Vishwa Vidyapeetham, Mysore Campus, as a consequence of creativity and dedication to improving indoor air quality. With the VINAZ-Air Quality System, you can make educated decisions about your living environment and move toward a better, safer environment.
 
