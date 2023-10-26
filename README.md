@@ -41,3 +41,5 @@ VINAZ was created during a 24-hour Hackathon conducted by IEEE Bangalore Section
 ![App Screenshot](https://github.com/vishnu1002/vinaz-aqs-iot/blob/47cde31d0c6a356644db813d6d46de77e9ec696e/images/image1.jpg)
 
 ![App Screenshot](https://github.com/vishnu1002/vinaz-aqs-iot/blob/47cde31d0c6a356644db813d6d46de77e9ec696e/images/image4.jpg)
+
+![App Screenshot](https://github.com/vishnu1002/vinaz-aqs-iot/blob/6edf561de6683fa39bb75e82128918baf7ff63ab/images/image5.png)
