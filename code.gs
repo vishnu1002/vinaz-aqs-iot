@@ -65,6 +65,8 @@ function doGet(e) {
     }
     
     Logger.log(JSON.stringify(rowData));
+
+    // Write the row data to the new row in the spreadsheet
     var newRange = sheet.getRange(newRow, 1, 1, rowData.length);
     newRange.setValues([rowData]);
 
@@ -74,13 +76,7 @@ function doGet(e) {
 
 }
 
+// Function to strip quotes from a string value
 function stripQuotes( value ) {
   return value.replace(/^["']|['"]$/g, "");
 }
-
-
-
-
-
-
-
