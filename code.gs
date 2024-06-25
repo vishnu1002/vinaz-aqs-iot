@@ -74,7 +74,9 @@ function doGet(e) {
 
 }
 
-//paste here
+function stripQuotes( value ) {
+  return value.replace(/^["']|['"]$/g, "");
+}
 
 
 
